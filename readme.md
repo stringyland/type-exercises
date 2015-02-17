@@ -4,38 +4,25 @@ One of the most important tasks in web design is organizing the content/ message
 
 ##Limitations
 ###Page 1
-* apply your body typeface
-* uniform size and weight
-* uniform alignment
-* uniform linespacing
+* choose body typeface
+* set the line-height
+* establish measure
+* media query for adjusted measure on larger screens vs. smaller?
 * *(hierarchy is virtually non-existent, save order)*
 
 ###Page 2
-* uniform size and weight
-* uniform alignment
-* varied spacing, separating different groups of information
+* add vertical rhythm - add margin and padding to group like items
 
 ###Page 3
-* uniform size
-* uniform alignment
-* varied font weights
-* varied spacing
+* add new font weights, still same size
 
 ###Page 4
-* uniform alignment
-* varied font-sizes
-* varied font weights
-* varied spacing
+* add new sizes to fonts
+* add color
 
 ###Page 5
-* varied font-sizes
-* varied graphical forms
-* varied spacing
-* varied alignment
+* add second new fonts and graphic forms
 
 ###Page 6
-* varied font-sizes
-* varied graphical forms
-* varied spacing
-* varied alignment
-* graphic embellishments allowed
+* Do whatever you want.
+* Add gifs
